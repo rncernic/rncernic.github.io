@@ -1,18 +1,12 @@
 ---
 layout: page
-title: Welcome to Lagrange!
+title: About me!
 ---
 
-Lagrange is a minimalist Jekyll theme. The purpose of this theme is to provide a simple, clean, content-focused blogging platform for your personal site or blog. Below you can find everything you need to get started.
+I've been an enthusiast and practitioner of data science and machine learning for a while and have a Physics major and a couple of specializations in Innovation and Knowledge Management. After 40+ years working in different industries I became a consultant and interim manager and decided to formally improve my data science skills by taking some on-line specializations.
 
-### Getting Started
+To better retain and expand some important concepts I'm gonna write about them and publish here.
 
-[Getting Started]({{ site.github.url }}{% post_url 2015-10-10-getting-started %}): getting started with installing Lagrange, whether you are completely new to using Jekyll, or simply just migrating to a new Jekyll theme.
+Enjoy!
+Ricardo 
 
-### Example Content
-
-[Text and Formatting]({{ site.github.url }}{% post_url 2014-01-01-text-formatting-examples %})
-
-### Questions?
-
-This theme is completely free and open source software. You may use it however you want, as it is distributed under the [MIT License](http://choosealicense.com/licenses/mit/). If you are having any problems, any questions or suggestions, feel free to [tweet at me](https://twitter.com/intent/tweet?text=My%question%about%Lagrange%is:%&amp;via=paululele), or [file a GitHub issue](https://github.com/lenpaul/lagrange/issues/new).
