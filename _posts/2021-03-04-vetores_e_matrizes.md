@@ -7,9 +7,6 @@ tags: [math]
 image:
 ---
 
-
-# <span style='color:blue'>Vetores e matrizes</span>
-
 Neste pequeno recordatório sobre vetores e matrizes abordamos algumas notações, operações e propriedades, além disso alguns exemplos ilustrativos serão apresentados códigos utilizando a biblioteca ***numpy*** de forma a estabelecer uma ponte entre os conceitos e a implantação na prática.
 
 O objetivo é abordar os pontos essenciais que são utulizados em cursos introdutórios de Ciência de Dados, portanto não abordamos demonstrações matemáticas, casos gerais etc.
